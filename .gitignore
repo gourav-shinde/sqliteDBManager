@@ -1,0 +1,21 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+build/
+
+# Executables
+sqlite3db_example
+sqlite3db_tests
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
